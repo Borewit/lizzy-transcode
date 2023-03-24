@@ -42,6 +42,3 @@ template: |
   ## Changes
 
   $CHANGES
-
-  ## Maven Central Release
-  Release: [io.github.borewit:$REPOSITORY:$RESOLVED_VERSION](https://central.sonatype.com/artifact/io.github.borewit/$REPOSITORY/$RESOLVED_VERSION)
