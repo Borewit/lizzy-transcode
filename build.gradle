@@ -23,7 +23,7 @@ dependencies {
     implementation 'args4j:args4j:2.33'
 
     // Provides christophedelory.playlist.*
-    implementation 'io.github.borewit:lizzy:2.0.0-SNAPSHOT'
+    implementation 'io.github.borewit:lizzy:2.0.1'
 
     // https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-core
     implementation 'org.apache.logging.log4j:log4j-core:2.20.0'
